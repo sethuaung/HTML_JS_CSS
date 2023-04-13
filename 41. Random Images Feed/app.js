@@ -1,5 +1,5 @@
 const container = document.querySelector(".content");
-const baseURL = "https://source.unsplash.com/random/";
+const baseURL = "https://source.unsplash.com/all/";
 const rows = 7;
 
 for (let i = 0; i < rows * 3; i++) {
