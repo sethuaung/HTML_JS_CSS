@@ -1,5 +1,5 @@
 # HTML, CSS & JAVASCRIPT 100+ PROJECTS 👇
 
-# [Watch me build 100 Projects](https://www.youtube.com/playlist?list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w) 🤘🥂.
+# [The Compiler](https://sethuaung.github.io) 🤘🥂.
 
 ![Course Thumbnail](/thumb.png)
